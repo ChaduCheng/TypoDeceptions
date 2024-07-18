@@ -32,7 +32,7 @@
 
 ## Installation
 
-1. Please follow the instructions in [LLaVA](https://github.com/haotian-liu/LLaVA) and [InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) to set up the codebase, model weights and conda environment for further experiments.
+1. Please follow the instructions in [LLaVA](https://github.com/haotian-liu/LLaVA), [InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) and [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4) to set up the codebase, model weights and conda environment for further experiments.
 
 2. Download the [Typographic Dataset](https://huggingface.co/datasets/erjiaxiao/Typographic-Dataset).
 
@@ -45,6 +45,7 @@ git clone https://github.com/ChaduCheng/TypoDeceptions.git
 ## Acknowledgement
 
 * [LLaVA](https://github.com/haotian-liu/LLaVA): Large Language and Vision Assistant
+* [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Enhancing Vision-language Understanding with Advanced Large Language Models
 * [InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip): Towards General-purpose Vision-Language Models with Instruction Tuning
 * [CLIP](https://github.com/openai/CLIP): Learning Transferable Visual Models From Natural Language Supervision
 
