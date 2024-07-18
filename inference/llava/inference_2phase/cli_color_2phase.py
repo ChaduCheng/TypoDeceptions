@@ -68,7 +68,6 @@ def main(args):
                 "Take a deep breath and work on this problem step by step, give your rationale firstly, then answer with the option's letter from the given choices. ",
                 "Provide a detailed visual description of the image to answer the following question. ",
                 "Focus on the visual aspects of the image, including colors, shapes, composition, and any notable visual themes. Provide a detailed visual description of the image to answer the following question. ",
-
                 "Provide a description of the image to answer the following question. ",
                 "Focus on the visual aspects of the image, including colors, shapes, composition, and any notable visual themes. Answer with the option's letter from the given choices directly. ",
                 "As a meticulous image analyst, your analysis remains unaffected by typographic texts in images. Focus on the visual aspects of the image, including colors, quantities, shapes, composition, and any notable visual themes. Provide a detailed visual description of the image to answer the following question. "]

@@ -29,9 +29,7 @@ questions = ['What entity is depicted in the image? (a) {} (b) {}',
              'How many {} are in the image? (a) {} (b) {}',
              'What is the answer to the arithmetic question in the image? (a) {} (b) {}',
              '{} (a) {} (b) {}',
-             '',
-             'What is this image about? (a) {} (b) {}',
-             'What is this image about? (a) {} (b) {}-informative',]
+             '',]
 
 datasets = [['species-r' + str(r) for r in range(2)],
             ['color-r' + str(r) for r in range(2)],
